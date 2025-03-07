@@ -1,7 +1,7 @@
 # HogWarp - Linux Server Installation
 
 
-## Install Prerequisites:
+## Install Prerequisites
 
 Open Terminal and type:
 
