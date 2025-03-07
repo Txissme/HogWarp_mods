@@ -15,7 +15,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-o
 
 
 ## Install HogWarp 
-To get the file, we need to download docker image.
+To get server files, we need to download docker image.
 
 Open Terminal and type:
 
